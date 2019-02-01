@@ -1,0 +1,4 @@
+﻿AFK_Cbot.obj : error LNK2019: unresolved external symbol "public: __thiscall CBot::CBot(void)" (??0CBot@@QAE@XZ) referenced in function _main
+AFK_Cbot.obj : error LNK2019: unresolved external symbol "public: void __thiscall CBot::wait(int)" (?wait@CBot@@QAEXH@Z) referenced in function _main
+AFK_Cbot.obj : error LNK2019: unresolved external symbol "public: bool __thiscall CBot::isAfk(int)" (?isAfk@CBot@@QAE_NH@Z) referenced in function _main
+C:\Users\Daniel\Documents\Cloud_Gaming\AFK_Cbot\Debug\AFK_Cbot.exe : fatal error LNK1120: 3 unresolved externals
